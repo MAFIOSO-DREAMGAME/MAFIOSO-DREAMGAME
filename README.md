@@ -12,5 +12,3 @@
 
 <p align="center"> Her name is Cinna. </p>
 
-![image](https://github.com/user-attachments/assets/acf97edb-ad76-4b92-a371-5b0dd987b003)
-
